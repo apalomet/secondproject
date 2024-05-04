@@ -1,0 +1,9 @@
+# Ansible
+*.retry
+*.log
+*.log.*
+*.out
+*.pid
+
+# Virtualenv
+.venv/
